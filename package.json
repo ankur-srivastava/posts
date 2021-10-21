@@ -1,0 +1,23 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "Post articles",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur-srivastava/posts.git"
+  },
+  "author": "Ankur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankur-srivastava/posts/issues"
+  },
+  "homepage": "https://github.com/ankur-srivastava/posts#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodeenv": "^3.0.71"
+  }
+}
